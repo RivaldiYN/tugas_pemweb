@@ -45,7 +45,7 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-.info {
+.detail {
     background-color: #ffffff;
     padding: 20px;
     border: 1px solid #ccc;
